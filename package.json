@@ -1,0 +1,56 @@
+{
+  "_from": "cordova-plugin-epson-epos2",
+  "_id": "cordova-plugin-epson-epos2@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-+XCxtVtLP5/hQn7/UkHzvmkBSALaKMIZYCcVjKSU4tme1EmVIgwJtizmCMcAERBr0Jnr7MqsBq7ZMIiZKXw2Jw==",
+  "_location": "/cordova-plugin-epson-epos2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-epson-epos2",
+    "name": "cordova-plugin-epson-epos2",
+    "escapedName": "cordova-plugin-epson-epos2",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-epson-epos2/-/cordova-plugin-epson-epos2-1.0.3.tgz",
+  "_shasum": "77fa3dd83a7470bcdb7366a9c1c7425bdb44f1b1",
+  "_spec": "cordova-plugin-epson-epos2",
+  "_where": "/Users/mac/git/EatwithmeServer/Restaurant_app",
+  "bugs": {
+    "url": "https://github.com/towerism/cordova-plugin-epson-epos2/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-epson-epos2",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Plugin integrating the Epson ePOS2 SDK for iOS and Android",
+  "homepage": "https://github.com/towerism/cordova-plugin-epson-epos2#readme",
+  "keywords": [
+    "cordova",
+    "apache",
+    "ecosystem:cordova",
+    "cordova:platform",
+    "epos2",
+    "epson",
+    "printer"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-epson-epos2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towerism/cordova-plugin-epson-epos2.git"
+  },
+  "version": "1.0.3"
+}
